@@ -1,0 +1,8 @@
+{
+  "name": "@emsenn/gridlands-paracosm-services-section",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Public media services for the Gridlands paracosm.",
+  "license": "UNLICENSED"
+}
